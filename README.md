@@ -9,6 +9,6 @@ my kaggle submission notebook for covid19 global forecasting challenge week 2 co
 
 ## About my Notebook
 
-In my notebook I used multivariate time series using Recurrent Neural Network.You will find whole descreption in this [notebook](multivariate time series using rnn).Check it out and Please upvote if you find it informative.
+In my notebook I used multivariate time series using Recurrent Neural Network.You will find whole descreption in this [notebook](https://www.kaggle.com/ravirajsinh45/covid19-forecasting-using-rnn) .Check it out and Please upvote if you find it informative.
 
 Thank you:)
